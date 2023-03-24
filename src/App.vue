@@ -19,6 +19,8 @@ import MessageChannel from './components/MessageChannel.vue'
 import New from './components/New.vue'
 import Extend from './components/Extends.vue'
 import Extend2 from './components/Extends2.vue'
+import LinkedList from './components/LinkedList.vue'
+import QuickSort from './components/QuickSort.vue'
 </script>
 
 <template>
@@ -59,7 +61,11 @@ import Extend2 from './components/Extends2.vue'
   <!-- <new /> -->
 
   <!-- <extend /> -->
-  <extend2 />
+  <!-- <extend2 /> -->
+
+  <!-- <linked-list /> -->
+
+  <quick-sort />
 </template>
 
 <style></style>
